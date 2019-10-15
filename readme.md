@@ -1,0 +1,1 @@
+ Création d’une plateforme de covoiturage pour mettre en relation des conducteurs et des passagers souhaitant partager un trajet et les frais associés. Les conducteurs publient leurs places disponibles et les passagers les achètent.
